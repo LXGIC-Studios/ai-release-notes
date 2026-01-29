@@ -1,7 +1,7 @@
 {
   "name": "ai-release-notes",
   "version": "1.0.0",
-  "description": "Generate user-facing release notes from your changelog or git log with some personality",
+  "description": "AI-powered release notes generator - user-friendly changelogs from commits with GPT",
   "main": "dist/index.js",
   "bin": {
     "ai-release-notes": "dist/cli.js"
@@ -10,10 +10,20 @@
     "build": "tsc"
   },
   "keywords": [
+    "ai",
+    "openai",
+    "gpt",
     "release-notes",
     "changelog",
     "git",
-    "ai"
+    "commits",
+    "developer-tools",
+    "cli",
+    "automation",
+    "typescript",
+    "nodejs",
+    "documentation",
+    "versioning"
   ],
   "license": "MIT",
   "dependencies": {
