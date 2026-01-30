@@ -3,6 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/ai-release-notes.svg)](https://www.npmjs.com/package/ai-release-notes)
 [![npm downloads](https://img.shields.io/npm/dm/ai-release-notes.svg)](https://www.npmjs.com/package/ai-release-notes)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-release-notes)](https://github.com/lxgic-studios/ai-release-notes/stargazers)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+
 
 
 Turn your messy git log or changelog into release notes that people actually want to read.
