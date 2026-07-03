@@ -39,7 +39,8 @@
     "changelog",
     "semver",
     "git-tags",
-    "june-2026-core-update"
+    "june-2026-core-update",
+    "seo-audit"
   ],
   "license": "MIT",
   "main": "dist/index.js",
