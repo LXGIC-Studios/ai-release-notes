@@ -8,7 +8,7 @@
     "ai-release-notes": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/npm-tools/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-release-notes/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -16,7 +16,7 @@
     "ora": "^5.4.1",
     "simple-git": "^3.27.0"
   },
-  "description": "AI-powered release notes generator - user-friendly changelogs from commits with GPT",
+  "description": "Generate user-facing release notes from your changelog or git log with personality. AI-powered summaries that developers actually want to read. Conventional commits aware.",
   "devDependencies": {
     "typescript": "^5.6.0",
     "@types/node": "^22.0.0"
@@ -32,15 +32,30 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-release-notes",
+  "homepage": "https://github.com/LXGIC-Studios/ai-release-notes",
   "keywords": [
-    "automation",
     "release-notes",
     "changelog",
+    "git",
+    "versioning",
     "semver",
-    "git-tags",
-    "june-2026-core-update",
-    "seo-audit"
+    "documentation",
+    "ai",
+    "automation",
+    "cli",
+    "developer-tools",
+    "npx",
+    "typescript",
+    "nodejs",
+    "openai",
+    "anthropic",
+    "claude",
+    "cursor",
+    "gpt",
+    "copilot",
+    "devtools",
+    "vibe-coding",
+    "git-tags"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -51,8 +66,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/npm-tools.git",
-    "directory": "ai-release-notes"
+    "url": "git+https://github.com/LXGIC-Studios/ai-release-notes.git"
   },
   "scripts": {
     "build": "tsc"
